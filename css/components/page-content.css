@@ -1,0 +1,12 @@
+.page-content {
+  margin-left: 200px;
+  background-color: #bee6dc ;
+}
+
+@media (max-width:  600px) {
+ .page-content {
+  margin-left: 0px;
+  }
+}
+
+
